@@ -1,0 +1,4 @@
+./largedata/*
+*out
+*err
+*log
